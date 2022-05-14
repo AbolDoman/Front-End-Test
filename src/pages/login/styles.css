@@ -1,0 +1,34 @@
+.loginRoot {
+    background : gainsboro;
+    width: 100%;
+    height : 100%;
+    margin-left: 320px ;
+}
+.header  {
+    width : 50%;
+    position : absolute;
+    display : flex;
+    flex-direction : column;
+    margin-right : 23%;
+    margin-top : 2%;
+    margin-bottom : 2%;
+    padding : 3%;
+    background : #EDFFDF !important;
+
+}
+.LRBtn{
+    flex : 1;
+    /*font-family : Samim !important;*/
+    font-size : 1.2rem !important;
+    font-weight : bold !important;
+}
+/*fontSamim  {*/
+/*    fontFamily : 'Samim !important;*/
+
+/*}*/
+/*fontSamim2  {*/
+/*    fontFamily : 'Samim !important;*/
+/*    color : 'white !important;*/
+/*    fontWeight: 'bold !importan;*/
+
+/*}*/
